@@ -1,31 +1,9 @@
 Solid State by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
+Julio, en este README.txt verás que la plantilla he adaptado las imágenes y el texto para adpatarlo a la gama de colores, puesto
+que es idéntica a la utilizada en la saga de videojuegos Metal Gear Solid, concretamente es la paleta de colores del protagonista principal,
+Solid Snake.
 
-After a somewhat extended break from HTML5 UP (to work on a secret-ish new project --
-more on that later!) I'm back with a brand new design: Solid State, a slick new multi-
-pager that combines some of the ideas I've played with over at Pixelarity with an "angular"
-sort of look. Hope you dig it :)
+He insertado las imágenes: kcd2.jpg, kcd2.0.jpg, kojima.jpg, konami.jpg, liquid.jpg, mgs.jpg, ocelot.jpg, psychomantis.jpg y solid-snake.jpg
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Como he dicho en las primeras líneas, he editado la mayoría de lore ipsums para que encaje con la temática de la web. Y he escrito la página en inglés también por costumbre.
